@@ -1,4 +1,4 @@
-Title: Musicbox：网易云音乐命令行版本 
+Title: Shell终端收听音乐--网易云音乐命令行版 
 Date: 2016-01-18 12:04
 Modified: 2016-02-29 12:45
 Category: Applications
