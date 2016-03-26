@@ -37,7 +37,7 @@ Rsync是一款通过网络备份重要数据的工具/软件。它同样是一�
 
 - 语法
 
-````
+```
 rsync [OPTION] SRC_PATH/[SRC_FILE] DEST_PATH
 ```
 
